@@ -13,7 +13,7 @@ Possui os atributos: numero (int), nome (String), numCt (int) e contas (array de
 Possui um construtor que inicializa o número e nome da agência, e cria um array vazio para armazenar as contas.
 Possui métodos para criar e remover contas, listar as contas da agência e selecionar uma conta pelo número.
 
-##Classe Banco
+## Classe Banco
 Possui os atributos: nome (String) e agencias (array de Agencia).
 Possui um construtor que inicializa o nome do banco e cria um array vazio para armazenar as agências.
 Possui métodos para criar e remover agências, listar as agências do banco e selecionar uma agência pelo número.
